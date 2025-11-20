@@ -4,3 +4,5 @@ hist(x)
 mean(x)
 median(x)
 min(x)
+(x) + 135
+
